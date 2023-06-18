@@ -66,3 +66,9 @@ projeto 10
 prototipagem warp
 
 https://www.figma.com/file/T8kWmDNcDSacFZLFMY554o/Prototipo?type=design&t=FkuuquEWixidLgxG-0
+
+projeto 11
+
+sugestão de logo flecomo
+
+https://www.figma.com/file/5K240tyq7AGpuNdBhg64zS/Untitled?type=design&node-id=0-1&t=wRNEM4ZBnFa8NnPe-0
